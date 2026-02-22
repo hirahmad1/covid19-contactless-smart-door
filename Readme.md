@@ -1,5 +1,8 @@
 Smart Door Access System, Contactless.
 
+![Project Image 1](IMG-20260222-WA0097.jpg)
+![Project Image 2](IMG-20260222-WA0098.jpg)
+
 Project Description
 The project was produced in 2021 amidst COVID -19, in order to display it at the Islamabad Science Fair Festival.
 It is a noncontact smart door automation device that employs a Raspberry Pi. The system will be able to identify movement, scan temperature without touching body and control the door access in an automated manner to safeguard.
